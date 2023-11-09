@@ -17,3 +17,6 @@
 ### Napin painaminen
 - Demo napin painamiseen
 [linkki materiaaliin](https://github.com/macabre-cs/python-kerhon-demot/blob/main/napin_painaminen.py)
+
+### Kaksi laskuria
+- Demo ajoitukseen [linkki materiaaliin](https://github.com/macabre-cs/python-kerhon-demot/blob/main/ajoitus.py)
