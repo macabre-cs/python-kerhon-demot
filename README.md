@@ -1,9 +1,7 @@
 # Python-ohjelmointikerhon lisämateriaali
 ## Miten teen...?
 ### Avaan tämän sivun
-```bash
-https://github.com/macabre-cs/python-kerhon-esimerkit
-```
+`https://github.com/macabre-cs/python-kerhon-esimerkit`
 
 ### Terminaalin avaaminen
 - Paina `CTRL + ALT + T` avataksesi terminaalin
