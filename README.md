@@ -54,5 +54,11 @@ Korvaa siis `tiedoston_nimi` oman ohjelmasi nimellä :>
 ### Kaksi laskuria
 - Esimerkki ajoitukseen [linkki materiaaliin](https://github.com/macabre-cs/python-kerhon-demot/blob/main/ajoitus.py)
 
+### Värit
+- Esimerkki väreihin [linkki materiaaliin](https://github.com/macabre-cs/python-kerhon-esimerkit/blob/main/varit.py)
+
+### Liikkuva teksti
+- Esimerkki liikkuvaan tekstiin [linkki materiaaliin](https://github.com/macabre-cs/python-kerhon-esimerkit/blob/main/kyltti.py)
+
 ### Muu kerhomateriaali
 - Kerhon muut [materiaalit](https://linktr.ee/linkkipython)
