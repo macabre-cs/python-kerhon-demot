@@ -1,22 +1,56 @@
-# Python kerhon lisämateriaali
+# Python-ohjelmointikerhon lisämateriaali
+## Miten teen...?
+
+### Terminaalin avaaminen
+- Paina `CTRL + ALT + T` avataksesi terminaalin
+- Voit myös hakea `terminal` sovelluksista
+
+### Koodieditorin avaaminen
+- Voit etsiä sovelluksista `idle`
+- Voit myös kirjoittaa terminaaliin:
+```bash
+idle
+```
+### Tekstieditorin avaaminen
+- Vaihtoehtoisesti voit myös kirjoittaa koodia tekstieditorilla. Voit etsiä `gedit` sovelluksista.
+- Saat geditin myös auki kirjoittamalla terminaaliin:
+```bash
+gedit
+```
+
+### Pygletin asennus
+Kirjoita terminaaliin:
+```bash
+pip3 install pyglet
+```
+
+### Python-ohjelman ajaminen
+Kirjoita terminaaliin:
+```bash
+python3 tiedoston_nimi.py
+```
+Korvaa siis `tiedoston_nimi` oman ohjelmasi nimellä :>
 
 ## Opetusmateriaalit
 
 ### Piirtäminen
-- Demo piirtämiseen
+- Esimerkki piirtämiseen
 [linkki materiaaliin](https://github.com/macabre-cs/python-kerhon-demot/blob/main/piirto.py)
 
 ### Kellon tikitys
-- Demo kelloon
+- Esimerkki kelloon
 [linkki materiaaliin](https://github.com/macabre-cs/python-kerhon-demot/blob/main/aika.py)
 
 ### Hiiren painallus
-- Demo hiiren painallukseen
+- Esimerkki hiiren painallukseen
 [linkki materiaaliin](https://github.com/macabre-cs/python-kerhon-demot/blob/main/hiiri.py)
 
 ### Napin painaminen
-- Demo napin painamiseen
+- Esimerkki napin painamiseen
 [linkki materiaaliin](https://github.com/macabre-cs/python-kerhon-demot/blob/main/napin_painaminen.py)
 
 ### Kaksi laskuria
-- Demo ajoitukseen [linkki materiaaliin](https://github.com/macabre-cs/python-kerhon-demot/blob/main/ajoitus.py)
+- Esimerkki ajoitukseen [linkki materiaaliin](https://github.com/macabre-cs/python-kerhon-demot/blob/main/ajoitus.py)
+
+### Muu kerhomateriaali
+- Kerhon muut [materiaalit](https://linktr.ee/linkkipython)
