@@ -1,9 +1,4 @@
 # Python-ohjelmointikerhon lisämateriaali
-## Kerhon itsearviointi
-`https://tinyurl.com/ohjelmointikerho`
-
-[Linkki itsearviointii](https://tinyurl.com/ohjelmointikerho)
-
 ## Miten teen...?
 ### Avaan tämän sivun
 `github.com/macabre-cs/python-kerhon-esimerkit`
